@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*"
-        "neopixel" "github:sakai-code/pxt-neopixel"
+        "neopixel": "github:sakai-code/pxt-neopixel"
     },
     "files": [
         "main.blocks",
