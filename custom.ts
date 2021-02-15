@@ -59,7 +59,7 @@ namespace BitCar {
     * Set the motors' speed of BitCar
     */
     //% blockId=move
-    //% block="BitCar: 左モーター $left \\%, 右モータ０right \\%"
+    //% block="BitCar: 左モーター $left \\%, 右モーター$right \\%"
     //% left.shadow="speedPicker"
     //% right.shadow="speedPicker"
     //% group="BitCar Control"
